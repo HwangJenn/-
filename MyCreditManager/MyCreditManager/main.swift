@@ -141,10 +141,17 @@ func gradeToScore(_ grade: String) -> Double? {
 func main() {
     while true {
         printMenu()
-        guard let choiceString = readLine(), let choice = Int(choiceString) else {
+        guard let choiceString = readLine()?.lowercased() else {
             print("뭔가 입력이 잘못되었습니다. 1~5 사이의 숫자 혹은 X를 입력해주세요.")
                 continue
-    }
+        }
+        if choiceString == "x" {
+            return
+        }
+        guard let choice = Int(choiceString) else {
+            print("뭔가 입력이 잘못되었습니다. 1~5 사이의 숫자 혹은 X를 입력해주세요.")
+            continue
+        }
         switch choice {
         case 1:
             addStudent()
@@ -156,10 +163,8 @@ func main() {
             delGrade()
         case 5:
             GPA()
-        case 6:
-            break
         default:
-            return
+                print("뭔가 입력이 잘못되었습니다. 1~5 사이의 숫자 혹은 X를 입력해주세요.")
         }
     }
 }
