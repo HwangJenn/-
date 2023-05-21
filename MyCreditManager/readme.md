@@ -8,4 +8,5 @@
 - 영문으로 입력받은 성적 숫자로 환산해 평점 출력
  
  실행)
+ 
 ![스크린샷 2023-05-06 오후 2 13 21](https://user-images.githubusercontent.com/76980015/236601526-ea12e9f6-4db7-479e-a66c-5bfd0c245c57.png)
