@@ -26,3 +26,8 @@
 
 - 틀린 입력시
 <img src = "https://github.com/JXHXXN/SWIFT_projects/assets/76980015/5261ee2a-cd1a-4f33-a0a7-f44aa433dfad.png" width = "200" hgight = "400"/>
+
+
+#
+#### [참고]
+https://lsh424.tistory.com/44
