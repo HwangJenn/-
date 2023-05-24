@@ -12,4 +12,4 @@
 ## [MVCexample01](https://github.com/JXHXXN/SWIFT_projects/tree/main/MVCexample01)
 - UIKit 사용
 - MVC 디자인 패턴을 이용한 예제
-- MVC 패턴은 구현이 빠르고 생산성이 좋다는 장점이 있으나 controller에 집중된 코드로 복잡한 프로젝트일 수록 controller가 커지게 된다는 단점이 있다.
+- 지정된 정보(이메일 + 패스워드) 로그인 페이지
