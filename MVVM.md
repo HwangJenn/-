@@ -18,6 +18,9 @@ ViewModel에 있는 필드가 변경되는지 관찰하고 있다. (Observer Pat
 모델의 데이터를 가공해서 뷰에 제공한다.  
 뷰에서 사용할 메서드와 필드를 뷰모델에서 구현된다.  
 
+## Data Binding, 데이터 바인딩
+View Model과 View 는 서로에게 데이터의 변경을 알려줄 수 있는 방법이다.
+
 ## 유의할 점
 뷰모델이 비대해지지 않게 주의해야힌다.  
 뷰 -> 뷰모델 -> 모델 이 참조 숮서를 지켜야 한다.
@@ -39,4 +42,4 @@ ViewModel에 있는 필드가 변경되는지 관찰하고 있다. (Observer Pat
 
 #
 #### [참고자료]
-https://just-my-blog.tistory.com/14 .  https://scshim.tistory.com/407
+https://just-my-blog.tistory.com/14 .  https://scshim.tistory.com/407 . https://gyuios.tistory.com/87
