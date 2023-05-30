@@ -13,3 +13,9 @@
 - UIKit 사용
 - MVC 디자인 패턴을 이용한 예제
 - 지정된 정보(이메일 + 패스워드) 로그인 페이지
+
+## [MVVMexample01](https://github.com/JXHXXN/SWIFT_projects/tree/main/MVVMexample01)
+- UIKit 사용
+- MVVM 디자인 패턴을 이용한 예제
+- 스토리보드로 뷰를 구성하는 것이 아닌 코드로 뷰를 구성함
+- 로컬이미지를 이용한 동물 입양 페이지
