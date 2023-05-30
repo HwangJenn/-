@@ -21,9 +21,10 @@
 
 #### [출력 결과]  
 <p>
-  <figcaption>  
-      - 초기화면<div align="center"> - 올바른(지정된 정보) 입력시 </div><div align="right">- 틀린 입력(지정되지 않은 정보) 입력시</div>
-  </figcaption> <br/>
+  <figcaption>
+    - 초기화면    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 올바른(지정된 정보) 입력시
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 틀린 입력(지정되지 않은 정보) 입력시
+  </figcaption></br>
   <img src="https://github.com/JXHXXN/SWIFT_projects/assets/76980015/0c084a02-d739-401e-a692-d53bd6bed35e.png" align="center" width="32%">
   <img src="https://github.com/JXHXXN/SWIFT_projects/assets/76980015/42632ba7-7db2-46a0-8870-40764c1a1a54.png" align="center" width="32%">
   <img src="https://github.com/JXHXXN/SWIFT_projects/assets/76980015/5261ee2a-cd1a-4f33-a0a7-f44aa433dfad.png" align="center" width="32%">
