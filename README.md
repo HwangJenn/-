@@ -28,3 +28,10 @@
 - 스토리보드 뷰 구성
 - Observable 테크닉을 통해 data binding 수행
 - 간단한 프로필 편집 페이지
+
+## [MVVMexample03](https://github.com/JXHXXN/SWIFT_projects/tree/main/MVVMexample03)
+- UIKit 사용
+- MVVM 디자인 패턴을 이용한 예제
+- 스토리보드 뷰 구성
+- openAPI를 이용한 데이터 표현
+- 뉴스리스트 페이지
