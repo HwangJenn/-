@@ -35,3 +35,11 @@
 - 스토리보드 뷰 구성
 - openAPI를 이용한 데이터 표현
 - 뉴스리스트 페이지
+
+## [MVVMexample04](https://github.com/JXHXXN/SWIFT_projects/tree/main/MVVMexample04)
+- UIKit 사용
+- MVVM 디자인 패턴을 이용한 예제
+- 스토리보드 뷰 구성 (MVVMexample03과 다르게 테이블뷰컨트롤러만 사용)
+- 데이터 바인딩에서 stringtype을 observe 할 수 없기에 custom class 생성
+- openAPI를 이용한 데이터 표현
+- 뉴스리스트 페이지
