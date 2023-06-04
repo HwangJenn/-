@@ -11,6 +11,7 @@
 - WebService.swift -> api에서 json을 받아와 Article.swift(model)에 작성된 모델형태로 객체변환(viewController와 네트웤 레이어 분리 하기 위함)
 
 #### [출력결과]
+<img src = "https://github.com/JXHXXN/SWIFT_projects/assets/76980015/00cd85b5-a5b1-4286-9ef0-bfec145fbbb3" width = "250" height = "400" />
 
 
 #
