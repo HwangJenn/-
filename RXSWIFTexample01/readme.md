@@ -14,7 +14,7 @@
 을 참고하라
 
 #### [출력결과]
-<img src =  width = "250" height = "400"/>
+<img src = "https://github.com/JXHXXN/SWIFT_projects/assets/76980015/96d3e84c-305f-4a8e-bec7-6f92e0c3e4f8" width = "250" height = "400"/>
 
 #
 #### [예제 참고]
