@@ -43,3 +43,10 @@
 - 데이터 바인딩에서 stringtype을 observe 할 수 없기에 custom class 생성
 - openAPI를 이용한 데이터 표현
 - 뉴스리스트 페이지
+
+## [RXSWIFTexamle01](https://github.com/JXHXXN/SWIFT_projects/tree/main/RXSWIFTexample01)
+- UIKit 사용
+- 스토리보드 뷰 구성
+- RxSwift 기본 개념을 이용한 예제
+- OBservable 패턴 이용
+- 4자 이상의 값이 입력이 되어야 정보가 갱신되는 간단한 로그인 페이지
