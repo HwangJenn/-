@@ -29,10 +29,14 @@ class ChangePasswordTableViewController : UITableViewController {
     
     @IBAction func save() {
         
-        if self.viewModel.isValid {
-            print("update the user's password")
+         if self.viewModel.isValid {
+           // print("update the user's password")
+        
+        messageLabel.text = "update the user's password"
+        
         } else {
-            print(self.viewModel.brokenRules)
+            // print(self.viewModel.brokenRules)
+            messageLabel.text = self.viewModel.brokenRules.map { $0.message }.joined(separator: "\n")
         }
     }
     
