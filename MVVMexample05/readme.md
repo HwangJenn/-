@@ -6,6 +6,10 @@
 - password 페이지
 - 데이터 바인딩에서 stringtype을 observe 할 수 없기에 custom class 생성함
 
+#### [오류 이슈]
+- ChangePassword 테이블 뷰에서 " The newPasswordTextField outlet from the ChangePasswordTableViewController to the BindingTextField is invalid. Outlets cannot be connected to repeating content. " 이슈는 해당 뷰의 show the attributes inspector에서 Table View의 content를 Dynamic prototypes을 static cells로 설정해 줌으로 해결함 
+
+
 #### [swift 프로젝트]
 - DynamicTypes.swift
 - Article.swift -> Model. 파싱할 데이터 json 구조
