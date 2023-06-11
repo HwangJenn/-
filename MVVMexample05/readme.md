@@ -1,5 +1,5 @@
 ## MVVM example 05
-- MVVM example 04의 기능을 확장한 페이지
+- [MVVM example 04](https://github.com/JXHXXN/SWIFT_projects/tree/main/MVVMexample04) 의 기능을 확장한 페이지
 - MVVM 패턴을 이용한 뉴스 리스트 페이지
 - openAPI를 테이블 뷰에 담아 표현
 - title, description 페이지 -> 메시지 입력시 title은 hello world, description은 description 메시지 생성
