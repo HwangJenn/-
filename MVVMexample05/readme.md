@@ -1,9 +1,9 @@
 ## MVVM example 05
-- MVVM example 04에서 이어지는 예제이다
+- MVVM example 04의 기능을 확장한 페이지
 - MVVM 패턴을 이용한 뉴스 리스트 페이지
 - openAPI를 테이블 뷰에 담아 표현
-- title, description 입력 페이지
-- password 페이지
+- title, description 페이지 -> 메시지 입력시 title은 hello world, description은 description 메시지 생성
+- ChangePassword 페이지 -> 8자 미만, 불일치, 8자 이상 비밀번호 일치시 메시지 생성
 - 데이터 바인딩에서 stringtype을 observe 할 수 없기에 custom class 생성함
 
 #### [오류 이슈]
